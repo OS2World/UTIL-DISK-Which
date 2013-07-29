@@ -1,4 +1,4 @@
 UTIL-DISK-Which
 ===============
 
-A clone of the UNIX command 'locate'. 
+A clone of the UNIX 'locate' command

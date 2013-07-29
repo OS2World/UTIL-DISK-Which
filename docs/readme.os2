@@ -1,0 +1,17 @@
+This is the OS/2 port of which 2.20, built with GCC 4.5.2.
+
+The sources are into this same directory, while you will find executable program
+and man/info pages into the os2\ subdirectory.
+
+You can delete safely the sources.zip package, as it contains only the original
+sources.
+
+If you please, let me know if you think this program can be useful or you have
+suggestions on software you would like to find on OS/2.
+
+Please consider also making a donation to Paul Smedley, whose work made it possible
+to have GCC and other recent programs on OS/2 and eComStation.
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
